@@ -17,6 +17,7 @@
 - [Automatic Real-Time Electric Guitar Audio Transcription](https://ieeexplore.ieee.org/document/5946418) - A real-time electric guitar transcription based on polyphonic pitch detection, fundamental frequencies detection and classification, by Xander Fiss and Andres Kwasinski;
 - [Automatic Transcription of Guitar Chords and Fingering from Audio](https://ieeexplore.ieee.org/document/6064873) - A method for extracting the fingering configurations automatically from a recorded guitar performance using HMMs, by BARBANCHO et al;
 - [Isolated guitar transcription using a deep belief network](https://peerj.com/articles/cs-109/) - Isolated guitar transcription using a deep belief network by BURLET and HINDLE;
+- [Diferentes abordagens evolutivas aplicadas no processo de transcrição automática de partituras musicais em tablaturas](http://search.ebscohost.com/login.aspx?direct=true&db=cat07269a&AN=utfpr.277940&lang=pt-br&site=eds-live&scope=site) - Evolutive algorithms for guitar transcription (in Portuguese);
 
 ## Other Resources
 
@@ -29,6 +30,8 @@
 - [Onsets and Frames: Dual-Objective Piano Transcription](http://arxiv.org/abs/1710.11153) - A polyphonic piano music transcription using a deep convolutional and recurrent neural network by HAWTHORNE, C. et al;
 - [Music Theory Inspired Policy Gradient Method for Piano Music Transcription] (https://nips2018creativity.github.io/doc/music_theory_inspired_policy_gradient.pdf) - A reinforcement deep learning algorithm for piano transcription, by LI, J.; QU, S.;
 - [Adversarial Learning for Improved Onsets and Frames Music Transcription](http://arxiv.org/abs/1906.08512) - A GAN for Automatic Music Transcription (AMT), by KIM and BELLO;
+- [Joint Transcription of Lead, Bass, and Rhythm Guitars Based on a Factorial Hidden Semi-Markov Model]() - Statistical method for estimating musical scores for lead, bass and rhythm guitars;
+- [Multitask Learning for Polyphonic Piano Transcription, a Case Study Rainer](https://arxiv.org/pdf/1902.04390)
 
 ### Music Generation
 
@@ -52,8 +55,15 @@ HAWTHORNE, C. et al. Onsets and Frames: Dual-Objective Piano Transcription. [s.l
 
 LI, J.; QU, S. Music Theory Inspired Policy Gradient Method for Piano Music Transcription. [s.l.], no Nips, p. 1–10, 2018.
 
+KELZ, R.; BOCK, S.; WIDNAER, C. Multitask learning for polyphonic piano transcription, a case study. Proceedings - 2019 International Workshop on Multilayer Music Representation and Processing, MMRP 2019, [s.l.], p. 85–91, 2019. ISBN: 9781728116495, DOI: 10.1109/MMRP.2019.8665372.
+
 KIM, J. W.; BELLO, J. P. Adversarial Learning for Improved Onsets and Frames Music Transcription. [s.l.], 2019.
 
 RADICIONI, D.; ANSELMA, L.; LOMBARDO, V. A segmentation-based prototype to compute string instruments fingering. Proceedings of the Conference …, [s.l.], no May, 2004.
 
+RAMOS, JOÃO VÍCTOR; SANCHES, DANILO SIPOLI; SILLA JUNIOR, C. N. Diferentes abordagens evolutivas aplicadas no processo de transcrição automática de partituras musicais em tablaturas. 105 p. - Universidade Tecnológica Federal do Paraná, 2016. Disponível em: <http://search.ebscohost.com/login.aspx?direct=true&db=cat07269a&AN=utfpr.277940&lang=pt-br&site=eds-live&scope=site>.
+
+SHIBATA, K. et al. Joint Transcription of Lead, Bass, and Rhythm Guitars Based on a Factorial Hidden Semi-Markov Model. ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings, [s.l.], v. 2019-May, p. 236–240, 2019. ISBN: 9781479981311, ISSN: 15206149, DOI: 10.1109/ICASSP.2019.8682817.
+
 XI, Q. et al. GuitarSet: a Dataset for Guitar Transcription. 19th International Society for Music Information Retrieval Conference, [s.l.], 2018.
+
